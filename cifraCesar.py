@@ -1,4 +1,4 @@
-alfa = [' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','x','y','w','z']
+alfa = [' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 
 texto = 'Jogue me aos lobos e voltarei como lider deles' #insira o texto aqui
 texto = texto.lower()
